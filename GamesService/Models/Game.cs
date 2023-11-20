@@ -18,6 +18,7 @@ namespace GamesService.Models
 
         public string Type { get; set; }
 
+        public string Name { get; set; }
         
     }
 }
